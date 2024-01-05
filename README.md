@@ -1,11 +1,12 @@
 # Biolink Blogger Template
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlF9bAPqGoJOztzIwnDDEu2fNe8uSUWRBxy7TTA69gUQDHYGbubfNler8qeRFJxLeNhks0tUdKixocUMHRV5OPou9AZdu3au4USGzymA0X5ttTXVjjtK26vz4pyljybmmHeIEoLmeqdpVfd_Sg4h5lFyPR0s0UifAPa9dFgQzz8lJOClescJnEYYETGcez/s0-rw/01_Biolink_Blogspot.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlF9bAPqGoJOztzIwnDDEu2fNe8uSUWRBxy7TTA69gUQDHYGbubfNler8qeRFJxLeNhks0tUdKixocUMHRV5OPou9AZdu3au4USGzymA0X5ttTXVjjtK26vz4pyljybmmHeIEoLmeqdpVfd_Sg4h5lFyPR0s0UifAPa9dFgQzz8lJOClescJnEYYETGcez/s0-rw/01_Biolink_Blogspot.jpg)">
-  <img alt="Biolink Blogger Template" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlF9bAPqGoJOztzIwnDDEu2fNe8uSUWRBxy7TTA69gUQDHYGbubfNler8qeRFJxLeNhks0tUdKixocUMHRV5OPou9AZdu3au4USGzymA0X5ttTXVjjtK26vz4pyljybmmHeIEoLmeqdpVfd_Sg4h5lFyPR0s0UifAPa9dFgQzz8lJOClescJnEYYETGcez/s0-rw/01_Biolink_Blogspot.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rianseo/biolink/blob/main/image/change-color-theme.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rianseo/biolink/blob/main/image/change-color-theme.gif">
+  <img alt="Biolink Blogger Template" src="https://github.com/rianseo/biolink/blob/main/image/change-color-theme.gif">
 </picture>
 
+##
 **Live Demo :** [Preview](https://biolink.temabanua.com)
 
 Blogger Template Biolink for a collection of various types of social media links, starting from Instagram, Tiktok, Affiliate, and other social media networks.
@@ -31,4 +32,7 @@ You can also install a paid domain, where Biolink currently uses many second par
 - Customized meta tags
 - The template does not support writing articles for Free Version.
 - Social media sharing buttons
-Customizable layout drag and drop widgets.
+- Customizable layout drag and drop widgets.
+
+# Web Documentation
+- Read more [Documentaion](https://www.temabanua.com/p/biolink.html)
