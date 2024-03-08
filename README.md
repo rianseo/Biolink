@@ -1,9 +1,9 @@
 # Biolink Blogger Template
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rianseo/biolink/blob/main/image/change-color-theme.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rianseo/biolink/blob/main/image/change-color-theme.gif">
-  <img alt="Biolink Blogger Template" src="https://github.com/rianseo/biolink/blob/main/image/change-color-theme.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://rianseo.github.io/Biolink/image/change-color-theme.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://rianseo.github.io/Biolink/image/change-color-theme.gif">
+  <img alt="Biolink Blogger Template" src="https://rianseo.github.io/Biolink/image/change-color-theme.gif">
 </picture>
 
 ##
